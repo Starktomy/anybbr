@@ -1,5 +1,5 @@
 #!/bin/bash
-image='https://github.com/Starktomy/anybbr/raw/master/kernel-bbrplus.tar.gz'
+image='https://github.com/CentOS/sig-cloud-instance-images/raw/CentOS-7.8.2003-x86_64/docker/centos-7.8.2003-x86_64-docker.tar.xz'
 bbx='https://busybox.net/downloads/binaries/1.31.0-defconfig-multiarch-musl/busybox-x86_64'
 nc_root='/centos7'
 download(){
